@@ -1,0 +1,10 @@
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\bin\Debug\93-7.exe.config
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\bin\Debug\93-7.exe
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\bin\Debug\93-7.pdb
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\93-7.csproj.AssemblyReference.cache
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\_93_7.Form1.resources
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\_93_7.Properties.Resources.resources
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\93-7.csproj.GenerateResource.cache
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\93-7.csproj.CoreCompileInputs.cache
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\93-7.exe
+D:\選手\選手練習\113 董宥彤\歷屆試題\93\93-7\obj\Debug\93-7.pdb
