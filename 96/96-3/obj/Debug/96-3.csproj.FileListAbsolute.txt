@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\96 年\96-3\bin\Debug\96-3.exe.config
+C:\Users\user\Desktop\96 年\96-3\bin\Debug\96-3.exe
+C:\Users\user\Desktop\96 年\96-3\bin\Debug\96-3.pdb
+C:\Users\user\Desktop\96 年\96-3\obj\Debug\96-3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\96 年\96-3\obj\Debug\96-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\96 年\96-3\obj\Debug\96-3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\96 年\96-3\obj\Debug\96-3.exe
+C:\Users\user\Desktop\96 年\96-3\obj\Debug\96-3.pdb
