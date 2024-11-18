@@ -7,10 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+// add package
 using System.IO;
 using System.Data;
+using static System.Console;
 using static System.Convert;
+using static System.Environment;
 using static System.Math;
+using static System.Linq.Enumerable;
+
 
 namespace _98_6
 {
@@ -27,17 +32,10 @@ namespace _98_6
             // ofd.Filter = "文字檔(*.txt)";
             if (ofd.ShowDialog() == DialogResult.OK)
             {
-                textBox1.Text = "";
-                textBox1.Text += "Net: " 
-                    + comboBox2.Text.Substring(0, comboBox2.Text.Length-1) 
-                    + "0" + Environment.NewLine;
-
-                string mask = "";
-                for (int i = 0; i < ToInt32(comboBox1.Text); i++)
-                    mask += "1";
-                for (int i = 0; i < 32 - ToInt32(comboBox1.Text); i++)
-                    mask += "0";
-
+                string domain = comboBox2.Text.Substring(0, comboBox2.Text.Length - 1) + "0";
+                textBox1.Text = $"Net: {domain} {NewLine}";
+                int n = ToInt32(comboBox1.Text);
+                string mask = string.Join("", Repeat("1", n)).PadRight(32, '0');
                 List<byte> msk = new List<byte>();
                 for (int i = 0; i < 32; i += 8)
                 {
@@ -49,18 +47,15 @@ namespace _98_6
 
                     msk.Add(ToByte(b, 2));
                 }
-
-                textBox1.Text += "Mask: " + string.Join(".", msk) + Environment.NewLine;
+                textBox1.Text += $"Mask: {String.Join(".", msk)} {NewLine}";
                 var f = File.ReadAllText(ofd.FileName).Split('\n');
-                string bIp = comboBox2.Text.Substring(0, comboBox2.Text.Length - 1) + "0";
                 string temp = "";
-                foreach (string s in bIp.Split('.'))
+                foreach (string s in domain.Split('.'))
                 {
                     temp += Convert.ToString(ToByte(s), 2).PadLeft(8, '0');
                 }
 
-                var ipNum = ToInt32(temp, 2);
-
+                var domainNum = ToInt32(temp, 2);
                 for (int i = 0; i < f.Length; i++)
                 {
                     var data = f[i].Split(',');
@@ -82,16 +77,12 @@ namespace _98_6
                         byte1 &= 0b11011111;
                     }
                     ip[0] = Convert.ToString(byte1);
-                    Console.WriteLine(string.Join(".", ip));
-                    string binIp = string.Join("", ip.ToList().ConvertAll(
+                    string binIp = String.Join("", ip.ToList().ConvertAll(
                         (x) => Convert.ToString(ToByte(x), 2).PadLeft(8, '0')));
-                    // Console.WriteLine(binIp);
-                    Console.WriteLine(ToInt32(binIp, 2) & ToInt32(mask, 2));
-                    Console.WriteLine((ToInt32(mask, 2) & ipNum));
-                    if ((ToInt32(binIp, 2) & ToInt32(mask, 2)) == (ToInt32(mask, 2) & ipNum))
+
+                    if ((ToInt32(binIp, 2) & ToInt32(mask, 2)) == (ToInt32(mask, 2) & domainNum))
                     {
-                        textBox1.Text += "IP: " + data[1] + " Message: " + data[2]
-                            + Environment.NewLine;
+                        textBox1.Text += $"IP: {data[1]} Message: {data[2]} {NewLine}";
                     }
                 }       
             }
