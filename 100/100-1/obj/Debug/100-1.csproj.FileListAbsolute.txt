@@ -1,0 +1,10 @@
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\bin\Debug\100-1.exe.config
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\bin\Debug\100-1.exe
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\bin\Debug\100-1.pdb
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.csproj.AssemblyReference.cache
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\_100_1.Form1.resources
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\_100_1.Properties.Resources.resources
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.csproj.GenerateResource.cache
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.csproj.CoreCompileInputs.cache
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.exe
+D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.pdb
