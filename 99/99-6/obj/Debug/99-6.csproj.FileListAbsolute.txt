@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\bin\Debug\99-6.exe.config
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\bin\Debug\99-6.exe
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\bin\Debug\99-6.pdb
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\99-6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\99-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\_99_6.Form1.resources
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\_99_6.Properties.Resources.resources
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\99-6.csproj.GenerateResource.cache
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\99-6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\99-6.exe
+C:\Users\user\Desktop\National-Skills-Competition\99\99-6\obj\Debug\99-6.pdb
