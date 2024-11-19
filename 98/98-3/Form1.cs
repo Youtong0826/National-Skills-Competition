@@ -9,7 +9,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace _98_3
 {
@@ -70,7 +69,7 @@ namespace _98_3
 
             rd.BaseStream.Seek(0x28, SeekOrigin.Begin);
             sampleSize = rd.ReadInt32();
-            len = (float)sampleSize / (float)sample;
+            len = sampleSize / (float)sample;
 
             bmp = new Bitmap(sampleSize, pictureBox1.Height);
             var g = Graphics.FromImage(bmp);
@@ -115,7 +114,7 @@ namespace _98_3
             // Console.WriteLine(hScrollBar1.Value);
             g.DrawImageUnscaled(bmp, -hScrollBar1.Value, 0);
             pictureBox1.Image = bmp2;
-            textBox2.Text = $"{(float)hScrollBar1.Value / (float)sample:f5}";
+            textBox2.Text = $"{hScrollBar1.Value / (float)sample:f5}";
         }
     }
 }
