@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\bin\Debug\112-5.exe.config
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\bin\Debug\112-5.exe
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\bin\Debug\112-5.pdb
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\112-5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\112-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\_112_5.Form1.resources
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\_112_5.Properties.Resources.resources
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\112-5.csproj.GenerateResource.cache
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\112-5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\112-5.exe
+C:\Users\user\Desktop\National-Skills-Competition\112\112-2\112-5\obj\Debug\112-5.pdb
