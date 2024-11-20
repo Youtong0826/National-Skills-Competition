@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\bin\Debug\Dijkstra.exe.config
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\bin\Debug\Dijkstra.exe
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\bin\Debug\Dijkstra.pdb
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.Properties.Resources.resources
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.csproj.GenerateResource.cache
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.exe
+C:\Users\user\Desktop\National-Skills-Competition\演算法實作\最短路\Dijkstra\obj\Debug\Dijkstra.pdb
