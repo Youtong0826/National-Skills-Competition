@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\bin\Debug\111-2.exe.config
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\bin\Debug\111-2.exe
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\bin\Debug\111-2.pdb
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\obj\Debug\111-2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\obj\Debug\111-2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\obj\Debug\111-2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\obj\Debug\111-2.exe
+C:\Users\user\Desktop\National-Skills-Competition\111\111-2\obj\Debug\111-2.pdb
