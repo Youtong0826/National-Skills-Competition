@@ -8,6 +8,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using System.Data;
+using static System.Console;
+using static System.Convert;
+using static System.Environment;
+using static System.Math;
+using static System.Linq.Enumerable;
 
 namespace _110_1
 {
@@ -43,7 +50,7 @@ namespace _110_1
             }
 
             var rnd = new Random();
-            for (int i = 0; i < 8; i++)
+            for (int i = 0; i < 7; i++)
             {
                 int x = rnd.Next(0, 9), y = rnd.Next(0, 9);
                 mp[x, y] = true;
@@ -61,15 +68,27 @@ namespace _110_1
         {
             list.Sort((x, y) => x.Item2.CompareTo(y.Item2));
             var mid = list[3];
-            int mn = int.MaxValue, mx = int.MinValue;
+            int mn = int.MaxValue, mx = int.MinValue, sum = 0;
+            int[] draw_up = new int[10], draw_down = new int[10];
+            for (int i = 0; i < 10; i++) draw_up[i] = draw_down[i] = mid.Item2;    
             foreach ( var item in list )
             {
                 g.DrawLine(new Pen(Brushes.Red, 3), item.Item1 * 20 + 10, item.Item2 * 20 + 10, item.Item1 * 20 + 10, mid.Item2 * 20 + 10);
+                if (item.Item2 > draw_up[item.Item1]) 
+                {
+                    sum += Math.Abs(item.Item2 - draw_up[item.Item1]);
+                    draw_up[item.Item1] = item.Item2;
+                } 
+                else if (item.Item2 < draw_down[item.Item1]) {
+                    sum += Math.Abs(item.Item2 - draw_down[item.Item1]);
+                    draw_down[item.Item1] = item.Item2;
+                }
                 mn = Math.Min(mn, item.Item1);
                 mx = Math.Max(mx, item.Item1);
             }
-
+            sum += Math.Abs(mn - mx);
             g.DrawLine(new Pen(Brushes.Red, 3), mn * 20 + 10, mid.Item2 * 20 + 10, mx * 20 + 10, mid.Item2 * 20 + 10);
+            textBox1.Text = $"{sum}";
             draw();
         }
     }
