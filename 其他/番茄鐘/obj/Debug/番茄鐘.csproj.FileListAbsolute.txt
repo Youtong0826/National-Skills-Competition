@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\bin\Debug\番茄鐘.exe.config
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\bin\Debug\番茄鐘.exe
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\bin\Debug\番茄鐘.pdb
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.Form1.resources
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.Properties.Resources.resources
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.csproj.GenerateResource.cache
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.exe
+C:\Users\user\Desktop\National-Skills-Competition\其他\番茄鐘\obj\Debug\番茄鐘.pdb
