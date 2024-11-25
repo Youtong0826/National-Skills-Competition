@@ -8,3 +8,14 @@ D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試�
 D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.csproj.CoreCompileInputs.cache
 D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.exe
 D:\高雄高工工科賽軟體設計選手\選手練習\113 董宥彤\歷屆試題\100\100-1\obj\Debug\100-1.pdb
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\bin\Debug\100-1.exe.config
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\bin\Debug\100-1.exe
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\bin\Debug\100-1.pdb
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\100-1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\100-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\_100_1.Form1.resources
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\_100_1.Properties.Resources.resources
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\100-1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\100-1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\100-1.exe
+C:\Users\user\Desktop\National-Skills-Competition\100\100-1\obj\Debug\100-1.pdb
