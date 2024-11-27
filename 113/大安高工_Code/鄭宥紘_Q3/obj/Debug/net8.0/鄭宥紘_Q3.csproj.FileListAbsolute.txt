@@ -1,0 +1,14 @@
+C:\鄭宥紘_Contest\鄭宥紘_Q3\bin\Debug\net8.0\鄭宥紘_Q3.exe
+C:\鄭宥紘_Contest\鄭宥紘_Q3\bin\Debug\net8.0\鄭宥紘_Q3.deps.json
+C:\鄭宥紘_Contest\鄭宥紘_Q3\bin\Debug\net8.0\鄭宥紘_Q3.runtimeconfig.json
+C:\鄭宥紘_Contest\鄭宥紘_Q3\bin\Debug\net8.0\鄭宥紘_Q3.dll
+C:\鄭宥紘_Contest\鄭宥紘_Q3\bin\Debug\net8.0\鄭宥紘_Q3.pdb
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.AssemblyInfoInputs.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.AssemblyInfo.cs
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.csproj.CoreCompileInputs.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.dll
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\refint\鄭宥紘_Q3.dll
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.pdb
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\鄭宥紘_Q3.genruntimeconfig.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q3\obj\Debug\net8.0\ref\鄭宥紘_Q3.dll

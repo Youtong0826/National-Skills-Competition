@@ -1,0 +1,16 @@
+C:\鄭宥紘_Contest\鄭宥紘_Q1\bin\Debug\net8.0-windows\鄭宥紘_Q1.exe
+C:\鄭宥紘_Contest\鄭宥紘_Q1\bin\Debug\net8.0-windows\鄭宥紘_Q1.deps.json
+C:\鄭宥紘_Contest\鄭宥紘_Q1\bin\Debug\net8.0-windows\鄭宥紘_Q1.runtimeconfig.json
+C:\鄭宥紘_Contest\鄭宥紘_Q1\bin\Debug\net8.0-windows\鄭宥紘_Q1.dll
+C:\鄭宥紘_Contest\鄭宥紘_Q1\bin\Debug\net8.0-windows\鄭宥紘_Q1.pdb
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.Form1.resources
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.csproj.GenerateResource.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.AssemblyInfoInputs.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.AssemblyInfo.cs
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.csproj.CoreCompileInputs.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.dll
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\refint\鄭宥紘_Q1.dll
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.pdb
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\鄭宥紘_Q1.genruntimeconfig.cache
+C:\鄭宥紘_Contest\鄭宥紘_Q1\obj\Debug\net8.0-windows\ref\鄭宥紘_Q1.dll

@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|c:\\\u912D\u5BA5\u7D18_contest\\\u912D\u5BA5\u7D18_q4\\s04.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|solutionrelative:s04.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|c:\\\u912D\u5BA5\u7D18_contest\\\u912D\u5BA5\u7D18_q4\\s20.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|solutionrelative:s20.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|c:\\\u912D\u5BA5\u7D18_contest\\\u912D\u5BA5\u7D18_q4\\s08.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|solutionrelative:s08.bin||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|c:\\\u912D\u5BA5\u7D18_contest\\\u912D\u5BA5\u7D18_q4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CD045E8-BBA2-4F38-AE49-58E1038F7623}|\u912D\u5BA5\u7D18_Q4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "s04.bin",
+              "DocumentMoniker": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\s04.bin",
+              "RelativeDocumentMoniker": "s04.bin",
+              "ToolTip": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\s04.bin",
+              "RelativeToolTip": "s04.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T03:08:41.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "s20.bin",
+              "DocumentMoniker": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\s20.bin",
+              "RelativeDocumentMoniker": "s20.bin",
+              "ToolTip": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\s20.bin",
+              "RelativeToolTip": "s20.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T03:08:41.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "s08.bin",
+              "DocumentMoniker": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\s08.bin",
+              "RelativeDocumentMoniker": "s08.bin",
+              "ToolTip": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\s08.bin",
+              "RelativeToolTip": "s08.bin",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T03:08:41.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\\u912D\u5BA5\u7D18_Contest\\\u912D\u5BA5\u7D18_Q4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:59:41.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

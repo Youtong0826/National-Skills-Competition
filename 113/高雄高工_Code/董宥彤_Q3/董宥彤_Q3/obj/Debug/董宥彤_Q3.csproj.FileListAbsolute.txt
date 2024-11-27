@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\bin\Debug\董宥彤_Q3.exe.config
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\bin\Debug\董宥彤_Q3.exe
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\bin\Debug\董宥彤_Q3.pdb
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.Form1.resources
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.Properties.Resources.resources
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.exe
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q3\董宥彤_Q3\obj\Debug\董宥彤_Q3.pdb

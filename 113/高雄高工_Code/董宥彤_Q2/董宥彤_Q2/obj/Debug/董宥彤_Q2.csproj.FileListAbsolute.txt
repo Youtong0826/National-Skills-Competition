@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\bin\Debug\董宥彤_Q2.exe.config
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\bin\Debug\董宥彤_Q2.exe
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\bin\Debug\董宥彤_Q2.pdb
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\obj\Debug\董宥彤_Q2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\obj\Debug\董宥彤_Q2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\obj\Debug\董宥彤_Q2.exe
+C:\Users\user\Desktop\董宥彤_Contest\董宥彤_Q2\董宥彤_Q2\obj\Debug\董宥彤_Q2.pdb
