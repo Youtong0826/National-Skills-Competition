@@ -144,7 +144,8 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "繪製音樂波形圖";
+            this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

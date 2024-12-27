@@ -20,6 +20,7 @@ namespace _98_3
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void raise()
@@ -103,6 +104,11 @@ namespace _98_3
             g = Graphics.FromImage(bmp2);
             g.DrawImageUnscaled(bmp, -hScrollBar1.Value, 0);
             pictureBox1.Image = bmp2;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            // Name = "繪製音樂波形圖";
         }
 
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
